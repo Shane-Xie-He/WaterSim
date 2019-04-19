@@ -1,10 +1,10 @@
 # WaterSim
 
-In honor of the authors: **Xie He**, **Xiaoting Bi**
+Authors: Xie He, Xiaoting Bi
 
 This a particle-based fluid simulation project. It was a course project for Fall 2015 CSCI-596 "Scientific Computing and Simulation" at USC.
 
-We use a particle-based model to simulate the motion of fluid, such as water, based on the Navier-Stocks equations from fluid mechanics. For detailed explanation of our implementation, please see our [project report](https://github.com/Shane-Xie-He/WaterSim/raw/master/Report.pdf).
+We use a particle-based model to simulate the motion of fluid, such as water, based on the Navier-Stocks equations from fluid mechanics. For detailed explanation of our implementation, please see our [project report](/Report.pdf).
 
 ## Guide for Compiling and Running
 
